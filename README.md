@@ -181,7 +181,7 @@ Most libraries come pre-installed in Google Colab. For any missing ones:
 
 ## Certificate
 
-Completion certificate will be issued on internship end date by **CodTech IT Solutions**.
+Completion certificate will be issued at the end of the internship program  by **CodTech IT Solutions**.
 
 ---
 
