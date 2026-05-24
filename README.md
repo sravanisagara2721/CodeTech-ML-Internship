@@ -4,10 +4,10 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | Sravani |
+| **Name** |  Uppara Sravani |
 | **Company** | CodTech IT Solutions |
 | **Domain** | Machine Learning |
-| **Duration** | As per internship offer letter |
+| **Duration** | 8 Weeks |
 
 ---
 
